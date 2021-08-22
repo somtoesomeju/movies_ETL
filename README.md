@@ -8,4 +8,4 @@ Software: Python 3.8, Anaconda 3.4.10, PgAdmin
 Languages used: Python, SQL.
 
 # Results
-After cleaning the data, I was able to import the results into the PGAdmin software. This produced a table showing the tally for [movies] and for the [ratings]. The initial data from the ratings_csv was so large that I initially had trouble uploading the file to my Github. From the image of the refractored data, it shows that the data has been trimmed down to keep only the files that we need. This can be seen from the count of the ratings data.
+After cleaning the data, I was able to import the results into the PGAdmin software. This produced a table showing the tally for [movies](https://github.com/somtoesomeju/movies_ETL/blob/main/Movies_query.png) and [ratings](https://github.com/somtoesomeju/movies_ETL/blob/main/ratings_query.png). The initial data from the ratings_csv was so large that I initially had trouble uploading the file to my Github. From the image of the refractored data, it shows that the data has been trimmed down to keep only the files that we need. This can be seen from the count of the ratings data.
